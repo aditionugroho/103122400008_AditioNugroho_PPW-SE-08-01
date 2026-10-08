@@ -1,0 +1,15 @@
+.projects-section { padding-top: 48px; }
+.projects-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; }
+.project-card { overflow: hidden; border: 1px solid var(--line); border-radius: 7px; background: var(--white); transition: transform 180ms ease, box-shadow 180ms ease; }
+.project-card:hover { transform: translateY(-4px); box-shadow: 0 16px 34px rgb(25 37 31 / 7%); }
+.project-card > img { width: 100%; aspect-ratio: 1.9; object-fit: cover; }
+.project-content { padding: 22px 24px 25px; }
+.project-content .eyebrow { margin-bottom: 8px; font-size: 9px; }
+.project-content h2 { margin-bottom: 8px; font-size: 19px; letter-spacing: -.6px; }
+.project-content > p:not(.eyebrow) { min-height: 61px; margin-bottom: 14px; color: var(--body); font-size: 12px; }
+.tag-list { display: flex; flex-wrap: wrap; gap: 7px; margin: 0 0 18px; padding: 0; list-style: none; }
+.tag-list li { padding: 4px 9px; border-radius: 3px; background: var(--muted); color: var(--body); font-size: 9px; font-weight: 600; }
+@media (max-width: 720px) {
+  .projects-grid { grid-template-columns: 1fr; gap: 16px; }
+  .project-content > p:not(.eyebrow) { min-height: 0; }
+}

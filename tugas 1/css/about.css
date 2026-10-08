@@ -1,0 +1,27 @@
+.about-layout { display: grid; grid-template-columns: 330px 1fr; align-items: start; gap: 58px; }
+.profile-card { position: sticky; top: 108px; padding: 20px; border: 1px solid var(--line); border-radius: 7px; background: var(--white); }
+.profile-card > img { width: 100%; aspect-ratio: 1.1; margin-bottom: 21px; border-radius: 5px; object-fit: cover; }
+.profile-card .eyebrow { margin-bottom: 5px; font-size: 9px; }
+.profile-card h2 { margin-bottom: 0; font-size: 20px; letter-spacing: -.6px; }
+.profile-nickname { margin-bottom: 17px; color: var(--body); font-size: 12px; }
+.profile-card dl { margin: 0; }
+.profile-card dl div { display: flex; justify-content: space-between; gap: 10px; padding: 9px 0; border-top: 1px solid var(--line); font-size: 11px; }
+.profile-card dt { color: var(--body); }
+.profile-card dd { margin: 0; text-align: right; font-weight: 600; }
+.about-content { padding-top: 4px; }
+.about-block { padding-bottom: 28px; }
+.about-block + .about-block { padding-top: 25px; border-top: 1px solid var(--line); }
+.about-block .eyebrow, .goal-card .eyebrow { margin-bottom: 10px; }
+.about-block h2, .goal-card h2 { margin-bottom: 12px; font-size: clamp(24px, 3vw, 32px); letter-spacing: -1.3px; line-height: 1.25; }
+.about-block > p:not(.eyebrow), .goal-card p:last-child { margin-bottom: 12px; color: var(--body); font-size: 13px; }
+.about-block > p:last-child { margin-bottom: 0; }
+.goal-card { display: flex; gap: 18px; padding: 25px; border: 1px solid #dce8de; border-radius: 6px; background: #f7faf7; }
+.goal-mark { color: var(--accent); font-size: 26px; }
+.goal-card h2 { font-size: 23px; }
+.goal-card p:last-child { margin-bottom: 0; }
+@media (max-width: 800px) { .about-layout { grid-template-columns: 260px 1fr; gap: 30px; } }
+@media (max-width: 650px) {
+  .about-layout { grid-template-columns: 1fr; gap: 35px; }
+  .profile-card { position: static; max-width: 430px; }
+  .profile-card > img { aspect-ratio: 1.5; }
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430">
+  <rect width="900" height="430" fill="#e8f0f2"/><circle cx="730" cy="90" r="220" fill="#d9e7eb"/>
+  <rect x="153" y="48" width="594" height="335" rx="14" fill="#fff" stroke="#d1dddf" stroke-width="2"/>
+  <rect x="153" y="48" width="594" height="44" rx="14" fill="#3d6e76"/><path d="M153 78h594v14H153z" fill="#3d6e76"/>
+  <circle cx="177" cy="70" r="5" fill="#fff" opacity=".8"/><circle cx="194" cy="70" r="5" fill="#fff" opacity=".55"/><circle cx="211" cy="70" r="5" fill="#fff" opacity=".35"/>
+  <rect x="175" y="112" width="130" height="248" rx="5" fill="#f4f7f7"/>
+  <rect x="191" y="132" width="81" height="9" rx="4" fill="#8da8aa"/><rect x="191" y="157" width="94" height="7" rx="3" fill="#d6e0e0"/>
+  <rect x="191" y="180" width="84" height="7" rx="3" fill="#d6e0e0"/><rect x="191" y="203" width="97" height="7" rx="3" fill="#d6e0e0"/>
+  <rect x="191" y="226" width="75" height="7" rx="3" fill="#d6e0e0"/><rect x="191" y="249" width="91" height="7" rx="3" fill="#d6e0e0"/>
+  <text x="330" y="137" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#293c3d">Ringkasan aktivitas</text>
+  <rect x="330" y="154" width="112" height="66" rx="6" fill="#eaf2f1"/><rect x="456" y="154" width="112" height="66" rx="6" fill="#f4eee5"/><rect x="582" y="154" width="135" height="66" rx="6" fill="#ebeff7"/>
+  <rect x="346" y="169" width="37" height="6" rx="3" fill="#8da8aa"/><rect x="346" y="185" width="60" height="17" rx="4" fill="#47775e"/>
+  <rect x="472" y="169" width="42" height="6" rx="3" fill="#baa17f"/><rect x="472" y="185" width="65" height="17" rx="4" fill="#ae8758"/>
+  <rect x="598" y="169" width="44" height="6" rx="3" fill="#97a1ba"/><rect x="598" y="185" width="71" height="17" rx="4" fill="#657494"/>
+  <rect x="330" y="240" width="387" height="10" rx="5" fill="#e9eeee"/><rect x="330" y="262" width="387" height="10" rx="5" fill="#e9eeee"/>
+  <rect x="330" y="284" width="387" height="10" rx="5" fill="#e9eeee"/><rect x="330" y="306" width="300" height="10" rx="5" fill="#e9eeee"/>
+  <rect x="330" y="240" width="175" height="10" rx="5" fill="#a4c4b0"/><rect x="330" y="262" width="240" height="10" rx="5" fill="#c0d7c8"/>
+  <rect x="330" y="284" width="140" height="10" rx="5" fill="#a4c4b0"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 590" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi profil Aditio Nugroho</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf2eb"/><stop offset="1" stop-color="#d8e8dc"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#47775e"/><stop offset="1" stop-color="#294e3b"/></linearGradient>
+  </defs>
+  <rect width="500" height="590" rx="14" fill="url(#bg)"/>
+  <circle cx="400" cy="100" r="52" fill="#fff" opacity=".5"/>
+  <path d="M100 590c12-126 64-190 150-190s138 64 150 190" fill="url(#shirt)"/>
+  <path d="M203 379h94v76c-17 26-77 26-94 0z" fill="#bd8060"/>
+  <ellipse cx="250" cy="252" rx="112" ry="137" fill="#d99c78"/>
+  <path d="M137 237c-7-97 41-157 117-157 83 0 123 64 109 164-19-9-33-27-42-53-53 26-109 34-179 20z" fill="#25372e"/>
+  <path d="M143 231c-25-5-32 19-20 46 7 16 20 23 31 22m205-68c25-5 32 19 20 46-7 16-20 23-31 22" fill="#d99c78"/>
+  <path d="M192 263c10-7 22-7 31 0m54 0c10-7 22-7 31 0" fill="none" stroke="#433a32" stroke-linecap="round" stroke-width="6"/>
+  <ellipse cx="208" cy="280" rx="5" ry="7" fill="#27352d"/><ellipse cx="292" cy="280" rx="5" ry="7" fill="#27352d"/>
+  <path d="M247 285c-4 18-8 30-3 34 4 3 10 3 15 0" fill="none" stroke="#b5785d" stroke-linecap="round" stroke-width="4"/>
+  <path d="M224 340c16 12 37 12 53 0" fill="none" stroke="#8d5147" stroke-linecap="round" stroke-width="5"/>
+  <path d="M183 188c25-30 62-46 103-42m35 20c10 11 18 25 23 41" fill="none" stroke="#32453a" stroke-linecap="round" stroke-width="9"/>
+  <circle cx="94" cy="110" r="5" fill="#6b9777"/><circle cx="412" cy="337" r="7" fill="#6b9777"/>
+  <path d="M77 390h35m-17-17v35m295-150h25m-12-12v25" stroke="#6b9777" stroke-linecap="round" stroke-width="3" opacity=".7"/>
+</svg>

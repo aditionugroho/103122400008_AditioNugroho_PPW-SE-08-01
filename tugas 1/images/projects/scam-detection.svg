@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430">
+  <rect width="900" height="430" fill="#eceaf3"/><circle cx="750" cy="360" r="210" fill="#e2deef"/>
+  <rect x="166" y="48" width="568" height="335" rx="14" fill="#fff" stroke="#d9d5e5" stroke-width="2"/>
+  <rect x="166" y="48" width="568" height="47" rx="14" fill="#f8f7fb"/><path d="M166 80h568v15H166z" fill="#f8f7fb"/>
+  <text x="193" y="78" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#50476b">CheckWise</text>
+  <rect x="565" y="64" width="58" height="8" rx="4" fill="#e7e4ef"/><rect x="637" y="64" width="68" height="8" rx="4" fill="#e7e4ef"/>
+  <circle cx="450" cy="164" r="36" fill="#eeeaf7"/><path d="M450 141l21 8v16c0 17-11 27-21 33-10-6-21-16-21-33v-16z" fill="#8278a6"/><path d="M441 165l7 7 13-15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <text x="450" y="224" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#39354a">Periksa sebelum percaya</text>
+  <rect x="269" y="244" width="362" height="45" rx="7" fill="#fff" stroke="#ddd9e8" stroke-width="2"/><text x="291" y="272" font-family="Arial,sans-serif" font-size="12" fill="#a29eb0">Masukkan nomor atau tautan mencurigakan</text>
+  <rect x="631" y="244" width="0" height="45" fill="#7b719b"/><rect x="631" y="244" width="0" height="45" rx="0" fill="#7b719b"/>
+  <rect x="269" y="306" width="362" height="39" rx="6" fill="#71678f"/><text x="450" y="331" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">Periksa sekarang</text>
+  <circle cx="223" cy="145" r="4" fill="#9e95bc"/><circle cx="674" cy="179" r="6" fill="#b0a8cb"/><path d="M227 327h22m-11-11v22m427-218h19m-9-10v20" stroke="#9e95bc" stroke-linecap="round" stroke-width="3"/>
+</svg>

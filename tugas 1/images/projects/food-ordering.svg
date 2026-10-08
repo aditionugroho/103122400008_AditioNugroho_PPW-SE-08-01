@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430">
+  <rect width="900" height="430" fill="#f4eae1"/><circle cx="160" cy="66" r="180" fill="#f0ddd0"/>
+  <rect x="164" y="45" width="572" height="340" rx="14" fill="#fff" stroke="#e4d5c9" stroke-width="2"/>
+  <rect x="164" y="45" width="572" height="45" rx="14" fill="#fff9f4"/><path d="M164 76h572v14H164z" fill="#fff9f4"/>
+  <text x="190" y="74" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#76523d">goodfood.</text>
+  <rect x="526" y="61" width="95" height="13" rx="6" fill="#eadfd6"/><circle cx="694" cy="68" r="12" fill="#f0e2d8"/>
+  <text x="190" y="124" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#3a332e">Menu pilihan</text>
+  <rect x="190" y="143" width="245" height="103" rx="8" fill="#f4e1d2"/><circle cx="310" cy="194" r="38" fill="#d99354"/><circle cx="310" cy="194" r="25" fill="#f7d977"/><circle cx="301" cy="185" r="4" fill="#65905b"/><circle cx="319" cy="202" r="4" fill="#65905b"/><path d="M286 193c15-14 35-16 49-3" fill="none" stroke="#bd6346" stroke-width="4"/>
+  <rect x="455" y="143" width="245" height="103" rx="8" fill="#e8efe2"/><circle cx="578" cy="194" r="38" fill="#edb873"/><circle cx="578" cy="194" r="27" fill="#fff0c2"/><path d="M557 193q20-24 42 0m-41 6q21 20 42 0" fill="none" stroke="#799a58" stroke-width="5"/>
+  <rect x="190" y="261" width="245" height="94" rx="8" fill="#f7eee7"/><circle cx="310" cy="307" r="30" fill="#da8052"/><circle cx="310" cy="307" r="20" fill="#ffe19a"/><path d="M295 308h30m-15-15v30" stroke="#709458" stroke-width="4"/>
+  <rect x="455" y="261" width="245" height="94" rx="8" fill="#eef0e8"/><circle cx="578" cy="307" r="30" fill="#85a16e"/><circle cx="578" cy="307" r="20" fill="#d8df9b"/><circle cx="572" cy="303" r="3" fill="#f7f2d5"/><circle cx="585" cy="313" r="3" fill="#f7f2d5"/>
+  <rect x="208" y="157" width="64" height="6" rx="3" fill="#fff" opacity=".7"/><rect x="475" y="157" width="64" height="6" rx="3" fill="#fff" opacity=".7"/>
+</svg>

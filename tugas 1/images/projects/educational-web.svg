@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430">
+  <rect width="900" height="430" fill="#e9f0e7"/><circle cx="724" cy="62" r="160" fill="#dce9d7"/>
+  <rect x="155" y="45" width="590" height="341" rx="14" fill="#fff" stroke="#d5e2d1" stroke-width="2"/>
+  <rect x="155" y="45" width="590" height="47" rx="14" fill="#f6faf4"/><path d="M155 78h590v14H155z" fill="#f6faf4"/>
+  <text x="183" y="75" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#4c704a">little learners</text>
+  <rect x="601" y="63" width="100" height="11" rx="5" fill="#e0eadc"/>
+  <text x="450" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#304731">Belajar sambil bermain!</text>
+  <text x="450" y="163" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#778875">Pilih kartu dan mulai petualangan belajar</text>
+  <rect x="209" y="189" width="130" height="138" rx="11" fill="#f7e7dd"/><text x="274" y="278" text-anchor="middle" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#c87855">A</text><circle cx="318" cy="207" r="9" fill="#edc5aa"/>
+  <rect x="385" y="189" width="130" height="138" rx="11" fill="#f5efd9"/><text x="450" y="278" text-anchor="middle" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#b3944e">B</text><circle cx="494" cy="207" r="9" fill="#e4d59b"/>
+  <rect x="561" y="189" width="130" height="138" rx="11" fill="#e4edf5"/><text x="626" y="278" text-anchor="middle" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#6685a0">3</text><circle cx="670" cy="207" r="9" fill="#bfd0df"/>
+  <path d="M245 352h410" stroke="#e3eae0" stroke-linecap="round" stroke-width="5"/><circle cx="450" cy="352" r="6" fill="#72936b"/>
+</svg>
